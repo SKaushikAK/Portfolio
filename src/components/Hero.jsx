@@ -7,10 +7,10 @@ export default function Hero() {
         <div className="hero-content">
           <div className="hero-text-section">
             <h1 className="hero-name">KAUSHIK ANANTH KUMAR S</h1>
-            <p className="hero-title">Full Stack Developer & AI Enthusiast</p>
+            <p className="hero-title">Full Stack Web and Mobile Application Developer</p>
             <p className="hero-description">
-              Passionate about building scalable web applications, exploring machine learning, 
-              and solving complex problems through innovative solutions.
+              Passionate about building scalable web and mobile applications, creating innovative solutions 
+              that deliver exceptional user experiences across all platforms.
             </p>
             <div className="hero-links">
             <a href="mailto:kaushikananthkumar2210199@ssn.edu.in" className="hero-link">

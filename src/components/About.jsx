@@ -30,15 +30,15 @@ export default function About() {
             </div>
           </div>
           <p className="about-text">
-            I'm a passionate Full Stack Developer currently pursuing B.Tech in Information Technology 
+            I'm a passionate Full Stack Web and Mobile Application Developer currently pursuing B.Tech in Information Technology 
             at SSN College of Engineering. I have hands-on experience in building 
-            scalable web applications and working with modern technologies like React, SpringBoot, 
+            scalable web and mobile applications using modern technologies like React, React Native, SpringBoot, 
             and various databases.
           </p>
           <p className="about-text">
-            My interests span across Full Stack Web Development, Machine Learning, Deep Learning, 
+            My expertise spans across Full Stack Web Development, Mobile Application Development (React Native, Flutter), 
             and Problem Solving. I enjoy tackling complex challenges and creating innovative solutions 
-            that make a difference.
+            that deliver exceptional user experiences across all platforms.
           </p>
           <div className="languages">
             <h3>Languages</h3>
