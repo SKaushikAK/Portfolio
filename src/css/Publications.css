@@ -1,0 +1,21 @@
+/* Publications Section */
+.publication-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.publication-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.publication-description {
+  line-height: 1.8;
+  color: #555;
+}
+
